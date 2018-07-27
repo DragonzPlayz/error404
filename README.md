@@ -22,10 +22,14 @@ At the current stage of our discord setup, we do not have talk channels in any o
 
 No, we do not support GameWisp or any other "GW" emotes provider.
 
+
+
 **Discord Links and Invites**
 
-Discord offical website: https://discordapp.com/
-Discord Developer API: https://discordapp.com/developers/docs/intro
+**Discord offical website:** https://discordapp.com/
+**Discord Developer API:** https://discordapp.com/developers/docs/intro
+
+
 
 **Quick Update:**
 
