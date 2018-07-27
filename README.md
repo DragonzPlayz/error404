@@ -25,7 +25,7 @@ No, we do not support GameWisp or any other "GW" emotes provider.
 **Discord Links and Invites**
 
 Discord offical website: https://discordapp.com/
-Discord Developer AP: https://discordapp.com/developers/docs/intro
+Discord Developer API: https://discordapp.com/developers/docs/intro
 
 **Quick Update:**
 
