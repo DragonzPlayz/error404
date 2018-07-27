@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Introducing DiscordHub
 
-You can use the [editor on GitHub](https://github.com/DragonzPlayz/webappstarthost/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Discord Hub is a new set of servers dedicated to giving Nitro Discord users loads of animated and funny emojis to use in any server. From explosions to parrot parties, you will find everything you need here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why choose DiscordHub?
 
+You should choose Discord Hub because of it's precision. We don't want tags, spam and moderation bots controlling our lives. We don't use text channels, we use private channels just for you to test the emojis in each server.
 
+## Do I have to have nitro?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unfortunately yes. Discord only allows Nitro users to use animated emojis, however each of our servers have regular emojis which can only be used in that server for non-nitro users.
 
-```markdown
-Syntax highlighted code block
+## Do I require any personal information/data?
 
-# Header 1
-## Header 2
-### Header 3
+No, we only require you to join our discord servers. You don't even have to view them.
 
-- Bulleted
-- List
+## I want to chat to other people!
 
-1. Numbered
-2. List
+At the current stage of our discord setup, we do not have talk channels in any of our servers. These could be an option in the future.
 
-**Bold** and _Italic_ and `Code` text
+## Do you have global emotes?
 
-[Link](url) and ![Image](src)
-```
+No, we do not support GameWisp or any other "GW" emotes provider.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Discord Links and Invites**
 
-### Jekyll Themes
+Discord offical website: https://discordapp.com/
+Discord Developer AP: https://discordapp.com/developers/docs/intro
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DragonzPlayz/webappstarthost/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Quick Update:**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Recently, our discord servers have been on a crisis. We no longer can provide our servers. We thank you all for your participation and the fun and enjoyment. Our servers are now private.
